@@ -56,7 +56,7 @@
   <img 
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" 
     alt="github contribution grid snake animation" 
-    style="background-color: transparent;"
+    style="background-color: dark;"
   />
 </picture>
 
