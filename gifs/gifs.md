@@ -541,7 +541,7 @@ Here are some ideas to get you started:
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
+   
 
 
 <picture style="background-color: transparent">
