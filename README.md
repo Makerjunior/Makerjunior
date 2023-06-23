@@ -24,22 +24,22 @@
 
 
 
-<picture  style="display: inline-block; background-color: black;" >
-  <source
+<picture   >
+  <source style="display: inline-block; background-color: black;
     media="(prefers-color-scheme: dark)"
     srcset="
-      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg&thrme=dark
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
     "
   />
   <source
     media="(prefers-color-scheme: light)"
     srcset="
-      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg&theme=dark
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
     "
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg&theme=dark"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
     
   
 </picture>
