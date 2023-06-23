@@ -22,13 +22,9 @@
 </a>
 
 
-<style>
-  picture {
-    background-color: black;
-  }
-</style>  
 
-<picture  >
+
+<picture  style="display: inline-block; background-color: dark;" >
   <source
     media="(prefers-color-scheme: dark)"
     srcset="
