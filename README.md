@@ -20,8 +20,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Makerjunior&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
-
-  ![Snake animation](https://github.com/Makerjunior/Makerjunior/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Makerjunior/Makerjunior/blob/output/github-contribution-grid-snake.svg)
 
 
 
