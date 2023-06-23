@@ -24,7 +24,7 @@
 
 
 
-<picture  style="display: inline-block; background-color: dark;" >
+<picture  style="display: inline-block; background-color:#171515 ;" >
   <source
     media="(prefers-color-scheme: dark)"
     srcset="
