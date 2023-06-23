@@ -1,5 +1,5 @@
 ### 😎 Obrigado por visitar o meu perfil do GitHub!
-### Acompalhe também pelo canal do YouTube e Replit.
+##### 🚀 Não deixe de acompanhar também o meu canal do YouTube e conferir meus projetos no Replit.
 <a href="https://www.youtube.com/@mentemaker/featured">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&theme=transparent" alt="Ícone">
 </a>
