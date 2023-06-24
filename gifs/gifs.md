@@ -554,12 +554,12 @@ Here are some ideas to get you started:
   <source
     media="(prefers-color-scheme: dark)"
     srcset="
-      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
     "
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
     style="background-color: transparent"
   />
 </picture>
