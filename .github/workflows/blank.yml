@@ -28,7 +28,7 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: Save status
-        run: echo ::set-env name=MY_STATUS::success
+        run: echo "MY_STATUS=$(cat .env)" >> $GITHUB_ENV
 
       # Para as atualizações.
       - name: Push changes
