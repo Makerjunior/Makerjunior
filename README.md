@@ -1,8 +1,8 @@
 ### 😎 Obrigado por visitar o meu perfil do GitHub!
 ##### 🚀 Não deixe de acompanhar meu canal do YouTube e perfil no Instagram para ficar por dentro das novidades. Confira meus projetos no Replit e explore mais conteúdos interessantes!
 
-
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
+<div>
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60"> 
 
 <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
 
@@ -17,7 +17,7 @@
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="60">
-
+</div>
 
 
 
