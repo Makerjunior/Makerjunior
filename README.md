@@ -1,5 +1,26 @@
 ### 😎 Obrigado por visitar o meu perfil do GitHub!
 ##### 🚀 Não deixe de acompanhar meu canal do YouTube e perfil no Instagram para ficar por dentro das novidades. Confira meus projetos no Replit e explore mais conteúdos interessantes!
+
+
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
+
+<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
+
+<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60">
+
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
+
+<img src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="60">
+
+
+
+
 <a href="https://www.youtube.com/@mentemaker/featured">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&theme=transparent" alt="Ícone">
 </a>
@@ -38,8 +59,14 @@
   />
 
 </picture>
-<!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img src="https://camo.githubusercontent.com/831de4f419cb893fae5dc5edb238d56de1b860de7ebe00fc1188fe29088c6fc1/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d7472696e6962267468656d653d72656163742d6461726b26686964655f626f726465723d7472756526636f6c6f723d303064363638266c696e653d30306436363826706f696e743d38623030376526637573746f6d5f7469746c653d2545322541442539302532305452494e4942253230254532254144253930" width="100%">
+
+
+
+<p align="center">
+
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60">
 
 
 
@@ -49,3 +76,5 @@
 
 
 
+
+</h4>
