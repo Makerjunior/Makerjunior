@@ -3,6 +3,11 @@
 
 <div>
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60"> 
+
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60">
+
 <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="60">
 
 <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
@@ -17,11 +22,9 @@
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="60">
 
-<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60">
 
-<br>
+<br><br>
 </div>
 
 
