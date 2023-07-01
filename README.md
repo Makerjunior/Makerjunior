@@ -18,11 +18,9 @@
 
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="60">
 
-
-
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="60">
 
-
+<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="60">
 
 
 
