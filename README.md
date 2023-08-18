@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&theme=transparent" alt="Ícone">
 </a>
 
-<a href="https://instagram.com/mente___maker?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D">
+<a href="https://www.instagram.com/p/CwEdLL4te3W/?utm_source=ig_web_button_share_sheet&igshid=MzRlODBiNWFlZA==">
   <img src="https://img.shields.io/badge/instagram-FF0000r?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
