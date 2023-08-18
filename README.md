@@ -32,7 +32,7 @@
 </a>
 
 <a href="https://instagram.com/mente___maker?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D">
-  <img src="https://img.shields.io/badge/YouTube-FF0000r?style=for-the-badge&logo=instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/instagram-FF0000r?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 <a href="https://replit.com/@MenteMaker">
