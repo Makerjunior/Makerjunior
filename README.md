@@ -3,25 +3,19 @@
 
 <div>
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60"> 
-
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
-
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60">
-
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60">
-
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="60">
-
+<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="60">
-
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
-
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="60">
-
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="60">
-
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="60">
-
 <h2>
 </div>
 
@@ -40,27 +34,6 @@
 </a>
 
 <p></p>
-
-
-
- 
-
-
-
-
-
 <p align="center">
-
-
-
-
-
-
-
-
-
-
-
-
 </h4>
 
