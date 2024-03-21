@@ -32,7 +32,7 @@
 <a href="https://replit.com/@MenteMaker">
   <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">
 </a>
-
+<hr>
 <p>Aproveite também o site 👉 <a  href="https://mentemaker.onrender.com"> Mente maker</a></p>
 
 
