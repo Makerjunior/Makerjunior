@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">
 </a>
 <hr>
-<p>Aproveite também o site 👉 <a  href="https://mentemaker.com.br"> Mente maker</a></p>
+<p>Aproveite também o site 👉 <a  href="www.mentemaker.com.br"> Mente maker</a></p>
 
 
 
