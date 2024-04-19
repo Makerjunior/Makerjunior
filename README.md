@@ -1,4 +1,4 @@
-### 😎 Obrigado por visitar o meu perfil do GitHub!
+### 😎 Obrigado por visitar o meu perfil do GitHub !
 ##### 🚀 Não deixe de acompanhar meu canal do YouTube e perfil no Instagram para ficar por dentro das novidades. Confira meus projetos no Replit e explore mais conteúdos interessantes!
 
 <div>
