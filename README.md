@@ -20,6 +20,11 @@
 </div>
 
 
+<a href="https://discord.gg/mtMMWZFF">
+  <img src="https://www.vectorlogo.zone/logos/discord/discord-official.svg">
+</a>
+
+<hr>
 
 <a href="https://www.youtube.com/@mentemaker/featured">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&theme=transparent" alt="Ícone">
@@ -32,7 +37,11 @@
 <a href="https://replit.com/@MenteMaker">
   <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">
 </a>
-<hr>
+
+
+
+
+
 <p>Aproveite também o site 👉 <a  href="http://www.mentemaker.com.br"> Mente maker</a></p>
 
 
