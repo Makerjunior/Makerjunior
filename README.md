@@ -26,6 +26,10 @@
 
 <hr>
 
+<a href="https://chat.whatsapp.com/GsN1nFTGOpG5gX2n7sXBqR">
+  <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="Ícone">
+</a>
+<hr>
 <a href="https://www.youtube.com/@mentemaker/featured">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&theme=transparent" alt="Ícone">
 </a>
@@ -42,9 +46,9 @@
 
 <hr>
 
-<p > Plataforma 👉 <a  href=""> Mente maker</a></p>
+<p > Clique aqui 👇👇👇👇</p>
 
-[![Mente Maker](logo.png)](http://www.mentemaker.com.br)
+[![Mente Maker](logoprofile.jpg)](http://www.mentemaker.com.br)
 
 
 
