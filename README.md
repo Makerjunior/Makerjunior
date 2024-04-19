@@ -42,7 +42,9 @@
 
 <hr>
 
-<p > Plataforma 👉 <a  href="http://www.mentemaker.com.br"> Mente maker</a></p>
+<p > Plataforma 👉 <a  href=""> Mente maker</a></p>
+
+[![Mente Maker](logo.png)](http://www.mentemaker.com.br)
 
 
 
