@@ -20,7 +20,7 @@
 </div>
 
 
-<a href="https://discord.com/invite/63peqpfg">
+<a href="https://discord.gg/jGMdKehPkf">
   <img src="https://www.vectorlogo.zone/logos/discord/discord-official.svg">
 </a>
 
