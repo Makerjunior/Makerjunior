@@ -46,10 +46,20 @@
 
 <hr>
 
-<p > Clique aqui 👇👇👇👇</p>
+🔥 Curso de banco de dados 
+👉https://www.youtube.com/watch?v=svE5Cp_q9Zk&list=PLpo2vYALH9e5ps7gHbCjmT35uAQIwbdl7&index=18
 
-[![Mente Maker](logoprofile.jpg)](http://www.mentemaker.com.br)
+🔥 Curso de Python 
+👉 https://www.youtube.com/watch?v=LJsHlPTEChY&list=PLpo2vYALH9e5JqNQmABa49nqTIvDqGzBP&index=27
 
+🔥 Curso de JavaScript 
+👉 https://www.youtube.com/watch?v=ianmOsVCeCY&list=PLpo2vYALH9e58UzWhvozuMAaK7vVS4_lP&index=25
+
+🔥 Curso de TypeScript
+👉 https://www.youtube.com/watch?v=zTMsSsCXxUw&list=PLpo2vYALH9e5eYXAAp-HaTsKditRq2E-o&index=6
+
+🔥 Curso de Arduino
+👉 https://www.youtube.com/watch?v=aqyERPLVz_0&list=PLpo2vYALH9e78eG0CZuw3Co644KQID19p&index=5
 
 
 
