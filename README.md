@@ -68,40 +68,40 @@ Trago uma ampla experiência em diversas tecnologias. Aqui estão algumas das fe
 
 Aproveite os cursos gratuitos que estou oferecendo para acelerar seu aprendizado nas áreas mais requisitadas da tecnologia. Clique abaixo para acessar cada curso:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <div style="text-align: center;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly; gap: 20px;">
+  <div style="text-align: center; flex-basis: 45%; margin-bottom: 20px;">
     <a href="https://www.youtube.com/watch?v=svE5Cp_q9Zk&list=PLpo2vYALH9e5ps7gHbCjmT35uAQIwbdl7&index=18" target="_blank">
-      <img src="https://img.youtube.com/vi/svE5Cp_q9Zk/0.jpg" alt="Curso de Banco de Dados" width="200" style="object-fit: cover; border-radius: 8px;">
+      <img src="https://img.youtube.com/vi/svE5Cp_q9Zk/0.jpg" alt="Curso de Banco de Dados" width="100%" style="object-fit: cover; border-radius: 8px;">
       <p><strong>💻 Curso de Banco de Dados</strong></p>
     </a>
   </div>
-  <div style="text-align: center;">
+  <div style="text-align: center; flex-basis: 45%; margin-bottom: 20px;">
     <a href="https://www.youtube.com/watch?v=Z16SGu6gBW8&list=PLpo2vYALH9e5JqNQmABa49nqTIvDqGzBP&index=26" target="_blank">
-      <img src="https://img.youtube.com/vi/Z16SGu6gBW8/0.jpg" alt="Curso de Python" width="200" style="object-fit: cover; border-radius: 8px;">
+      <img src="https://img.youtube.com/vi/Z16SGu6gBW8/0.jpg" alt="Curso de Python" width="100%" style="object-fit: cover; border-radius: 8px;">
       <p><strong>🐍 Curso de Python</strong></p>
     </a>
   </div>
-  <div style="text-align: center;">
+  <div style="text-align: center; flex-basis: 45%; margin-bottom: 20px;">
     <a href="https://www.youtube.com/watch?v=BdR_NEI2oTM&list=PLpo2vYALH9e58UzWhvozuMAaK7vVS4_lP&index=23" target="_blank">
-      <img src="https://img.youtube.com/vi/BdR_NEI2oTM/0.jpg" alt="Curso de JavaScript" width="200" style="object-fit: cover; border-radius: 8px;">
+      <img src="https://img.youtube.com/vi/BdR_NEI2oTM/0.jpg" alt="Curso de JavaScript" width="100%" style="object-fit: cover; border-radius: 8px;">
       <p><strong>🌐 Curso de JavaScript</strong></p>
     </a>
   </div>
-  <div style="text-align: center;">
+  <div style="text-align: center; flex-basis: 45%; margin-bottom: 20px;">
     <a href="https://www.youtube.com/watch?v=zTMsSsCXxUw&list=PLpo2vYALH9e5eYXAAp-HaTsKditRq2E-o&index=6" target="_blank">
-      <img src="https://img.youtube.com/vi/zTMsSsCXxUw/0.jpg" alt="Curso de TypeScript" width="200" style="object-fit: cover; border-radius: 8px;">
+      <img src="https://img.youtube.com/vi/zTMsSsCXxUw/0.jpg" alt="Curso de TypeScript" width="100%" style="object-fit: cover; border-radius: 8px;">
       <p><strong>⚙️ Curso de TypeScript</strong></p>
     </a>
   </div>
-  <div style="text-align: center;">
+  <div style="text-align: center; flex-basis: 45%; margin-bottom: 20px;">
     <a href="https://www.youtube.com/watch?v=aqyERPLVz_0&list=PLpo2vYALH9e78eG0CZuw3Co644KQID19p&index=5" target="_blank">
-      <img src="https://img.youtube.com/vi/aqyERPLVz_0/0.jpg" alt="Curso de Arduino" width="200" style="object-fit: cover; border-radius: 8px;">
+      <img src="https://img.youtube.com/vi/aqyERPLVz_0/0.jpg" alt="Curso de Arduino" width="100%" style="object-fit: cover; border-radius: 8px;">
       <p><strong>🛠️ Curso de Arduino</strong></p>
     </a>
   </div>
-  <div style="text-align: center;">
+  <div style="text-align: center; flex-basis: 45%; margin-bottom: 20px;">
     <a href="https://www.youtube.com/watch?v=cWdD1hrh_to&list=PLpo2vYALH9e4StbNIRsf-SRBlRDaqa43f" target="_blank">
-      <img src="https://img.youtube.com/vi/cWdD1hrh_to/0.jpg" alt="Curso de Git e GitHub" width="200" style="object-fit: cover; border-radius: 8px;">
+      <img src="https://img.youtube.com/vi/cWdD1hrh_to/0.jpg" alt="Curso de Git e GitHub" width="100%" style="object-fit: cover; border-radius: 8px;">
       <p><strong>📂 Curso de Git e GitHub</strong></p>
     </a>
   </div>
