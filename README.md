@@ -124,23 +124,23 @@ Aproveite os cursos gratuitos que estou oferecendo para acelerar seu aprendizado
 ### 🚀 **Meus Projetos**  
 Aqui estão alguns dos meus projetos desenvolvidos para ajudar você a aprender mais sobre tecnologia e programação. Confira:
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; margin-top: 20px;">
+<div >
   <!-- Link Mente Maker -->
   <a href="https://www.mentemaker.com.br/" target="_blank" style="font-size: 24px; font-weight: bold;">
     🌏 Mente Maker
-  </a> 
+  </a> <br>
    <a href="https://github.com/Makerjunior/CopiladorOnLine" target="_blank" style="font-size: 24px; font-weight: bold;">
       🐍 Python Online
-    </a>
+    </a> <br>
     <a href="https://github.com/Makerjunior/JavascriptOnline" target="_blank" style="font-size: 24px; font-weight: bold;">
       🧑‍💻 Javascript Online
-    </a>
+    </a> <br>
     <a href="https://github.com/Makerjunior/Snake_Game?tab=readme-ov-file" target="_blank" style="font-size: 24px; font-weight: bold;">
       🎮 Jogo Snake
-    </a>
+    </a> <br>
     <a href="https://github.com/Makerjunior/Snake_Game?tab=readme-ov-file" target="_blank" style="font-size: 24px; font-weight: bold;">
       🕹️ Tic-Tac-Toe
-    </a>
+    </a> <br>
 
 </div>
 
