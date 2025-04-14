@@ -14,7 +14,6 @@ Olá, sou o **Junior**, desenvolvedor apaixonado por tecnologia e inovação. Co
     <img src="https://img.shields.io/badge/Inscreva--se-no%20YouTube-red?logo=youtube&style=for-the-badge" width="220">
   </a>
 </p>
----
 
 ### 🌐 **Minhas Redes Sociais**  
 Fique por dentro das novidades, dicas e conteúdos exclusivos! Acompanhe-me no YouTube, Instagram e Replit para mais interações e projetos:
