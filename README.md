@@ -15,6 +15,11 @@ Olá, sou o **Junior**, desenvolvedor apaixonado por tecnologia e inovação. Co
   </a>
 </p>
 
+![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdHR_M4vqK1rtKo56RMQ9tQ?style=social)
+
+![YouTube Views](https://img.shields.io/youtube/channel/views/UCdHR_M4vqK1rtKo56RMQ9tQ?style=social)
+
+
 ### 🌐 **Minhas Redes Sociais**  
 Fique por dentro das novidades, dicas e conteúdos exclusivos! Acompanhe-me no YouTube, Instagram e Replit para mais interações e projetos:
 
