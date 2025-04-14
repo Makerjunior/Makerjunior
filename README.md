@@ -9,7 +9,11 @@ Olá, sou o **Junior**, desenvolvedor apaixonado por tecnologia e inovação. Co
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 </p>
 
-[![Inscreva-se](https://img.shields.io/badge/Inscreva--se-no%20YouTube-red?logo=youtube&style=for-the-badge)](https://youtube.com/@MenteMaker?sub_confirmation=1)
+<p align="center">
+  <a href="https://youtube.com/@MenteMaker?sub_confirmation=1">
+    <img src="https://img.shields.io/badge/Inscreva--se-no%20YouTube-red?logo=youtube&style=for-the-badge" width="220">
+  </a>
+</p>
 ---
 
 ### 🌐 **Minhas Redes Sociais**  
